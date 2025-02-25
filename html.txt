@@ -1,0 +1,22 @@
+<html>
+<head>
+    <title>Hacking in Progress...</title>
+    <style>
+        body { background-color: black; color: green; font-family: monospace; text-align: center; padding-top: 50px; }
+        .hacking { font-size: 24px; margin-top: 20px; animation: loading 2s infinite alternate; }
+        @keyframes loading { from { opacity: 0.3; } to { opacity: 1; } }
+    </style>
+</head>
+<body>
+    <h1>Initializing Hack...</h1>
+    <div class="hacking">█▒▒▒▒▒▒▒▒▒ 10%</div>
+    <div class="hacking">███▒▒▒▒▒▒▒ 30%</div>
+    <div class="hacking">█████▒▒▒▒▒ 50%</div>
+    <div class="hacking">███████▒▒▒ 70%</div>
+    <div class="hacking">██████████ 100%</div>
+    <h2>ACCESS GRANTED</h2>
+    <audio autoplay>
+        <source src="https://www.soundjay.com/duck-quack-01.mp3" type="audio/mpeg">
+    </audio>
+</body>
+</html>
